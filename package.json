@@ -1,0 +1,16 @@
+{
+  "name": "backend-clase-42-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "TODOS.js",
+  "type": "module",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/TODOS.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
